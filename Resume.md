@@ -1,13 +1,10 @@
-Timo's Resume
+#Timo's Resume
 
-Work Experience
-
+##Work Experience
+- Web4u 2022-present
 
 Education
-- Freshman lol
-
-Extracurriculurs
-
+- First-year Mcintosh High School
 
 Skills
-
+- HTML
