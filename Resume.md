@@ -1,10 +1,10 @@
-#Timo's Resume
+# Timo's Resume
 
-##Work Experience
+## Work Experience
 - Web4u 2022-present
 
-##Education
+## Education
 - First-year Mcintosh High School student
 
-##Skills
+## Skills
 - HTML
