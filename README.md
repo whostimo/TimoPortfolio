@@ -3,4 +3,5 @@ Hello this is my portfolio; my name is Timo. This portfolio is for the Software 
 
 ## Contents
 - [Resume](RESUME.md)
+- [Programming Languages](PROGRAMMING-LANGUAGES.md)
 - [Binary Logic](Binary-Logic.md)
