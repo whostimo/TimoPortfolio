@@ -8,3 +8,8 @@
 
 ## Skills
 - HTML
+
+## Typing
+- Keys Learned
+ - J, F, Space, U, R, K
+ - 54 WPM
